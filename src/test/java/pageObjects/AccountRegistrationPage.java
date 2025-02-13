@@ -60,8 +60,8 @@ public void setTelephone(String tel) {
 
 }
 
-public void setPassword(String pwd) {
-	txtPassword.sendKeys(pwd);
+public void setPassword(String password) {
+	txtPassword.sendKeys(password);
 
 }
 
